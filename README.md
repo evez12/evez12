@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @evez12
+- 👋 Hi, I’m Evez
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning spring boot 3 and microservices   
+- 🌱 I’m currently learning spring boot 3+ and microservices   
 - 📫 How to reach me evezhuseynov24@gmail.com
 
 <!---
