@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evez</h1>
-<h3 align="center">Intern Developer</h3>
+<h3 align="center">Intern Backend Developer</h3>
 
 - 🔭 I’m currently working on [My-Restaurant](https://github.com/evez12/My-Restaurant.git)
 
