@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evez</h1>
 <h3 align="center">Intern Backend Developer</h3>
 
-- 🔭 I’m currently working on [My-Restaurant](https://github.com/evez12/My-Restaurant.git) and [Register-Login-Spring-security](https://github.com/evez12/Register-login-spring-security.git)
+- 🔭 I’m currently working on [My-Restaurant](https://github.com/evez12/My-Restaurant.git)
 
 - 🌱 I’m currently learning **Spring, Spring Boot**
 
