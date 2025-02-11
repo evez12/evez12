@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Evez</h1>
-<h3 align="center">Intern Backend Developer</h3>
+<h3 align="center">Intern Developer</h3>
 
 - 🔭 I’m currently working on [My-Restaurant](https://github.com/evez12/My-Restaurant.git)
 
-- 🌱 I’m currently learning **Spring, Spring Boot**
+- 🌱 I’m currently learning **Spring Boot,React**
 
 - 📫 How to reach me **evez.huseynovv@gmail.com**
 
@@ -20,7 +20,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evez12&show_icons=true&locale=en&layout=compact" alt="evez12" /></p>
 
-## 📈 LeetCode Stats:##
+## 📈 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/evez542?ext=heatmap)
 
 
