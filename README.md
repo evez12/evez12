@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My-Restaurant](https://github.com/evez12/My-Restaurant.git)
 
-- 🌱 I’m currently learning **Spring Boot,React**
+- 🌱 I’m currently learning **Algorithms , Data Structures, Spring Boot**
 
 - 📫 How to reach me **evez.huseynovv@gmail.com**
 
