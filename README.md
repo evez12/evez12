@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Evez</h1>
 <h3 align="center">Intern Developer</h3>
 
-- 🔭 I’m currently working on [My-Restaurant](https://github.com/evez12/My-Restaurant.git)
+- 🔭 I’m currently working on [My-Restaurant])
 
-- 🌱 I’m currently learning **Algorithms , Data Structures, Spring Boot**
+- 🌱 I’m currently learning **Math for ai**
 
 - 📫 How to reach me **evez.huseynovv@gmail.com**
 
