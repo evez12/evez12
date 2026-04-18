@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evez</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on [My-Restaurant])
-
-- 🌱 I’m currently learning **Math for ai**
+- 🌱 I’m currently learning **Machine learning concepts**
 
 - 📫 How to reach me **evez.huseynovv@gmail.com**
 
